@@ -1,7 +1,7 @@
 {
-  "version": "0.2.79",
-  "buildNumber": 83,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.79+83.apk",
+  "version": "0.2.80",
+  "buildNumber": 84,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.80+84.apk",
   "obligatoria": true,
-  "notas": "Nueva seccion \"Visitas por dia\" (Mas): que porcentaje de las visitas de hoy terminaron en venta y cuales fueron solo \"visitado\", con un mapa que dibuja la ruta real que se hizo. Se puede dar de permiso a cualquier empleado."
+  "notas": "Papelera de reciclaje (clientes/productos/marcas, restaurable 60 dias); ver Productos y Venta Nueva por categoria o por marca (Mas -> Configuracion); tocar una marca muestra sus estadisticas; mini-mapa en la ficha del cliente; ranking de marcas y columnas fijas/ordenables en Estadisticas; exportar Excel del Historial por rango de fechas; Visitas por dia ahora ordenada de mas reciente a mas antigua."
 }

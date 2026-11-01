@@ -1,7 +1,7 @@
 {
-  "version": "0.2.80",
-  "buildNumber": 84,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan41/lujan-reparto-updates/main/releases/app-release-0.2.80+84.apk",
+  "version": "0.2.82",
+  "buildNumber": 86,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan4101/lujan-reparto-updates/main/releases/app-release-0.2.82+86.apk",
   "obligatoria": true,
-  "notas": "Papelera de reciclaje (clientes/productos/marcas, restaurable 60 dias); ver Productos y Venta Nueva por categoria o por marca (Mas -> Configuracion); tocar una marca muestra sus estadisticas; mini-mapa en la ficha del cliente; ranking de marcas y columnas fijas/ordenables en Estadisticas; exportar Excel del Historial por rango de fechas; Visitas por dia ahora ordenada de mas reciente a mas antigua."
+  "notas": "Las fotos de productos/categorias/marcas ya no dependen de Firebase (se quedo sin cupo) - ahora se guardan en GitHub, mas confiable; arreglado que la marca a veces no quedaba guardada al crear o editar un producto; arreglos varios de sincronizacion de fotos entre celulares."
 }

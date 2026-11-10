@@ -1,7 +1,7 @@
 {
-  "version": "0.2.83",
-  "buildNumber": 87,
-  "apkUrl": "https://raw.githubusercontent.com/agulujan4101/lujan-reparto-updates/main/releases/app-release-0.2.83+87.apk",
+  "version": "0.2.84",
+  "buildNumber": 88,
+  "apkUrl": "https://raw.githubusercontent.com/agulujan4101/lujan-reparto-updates/main/releases/app-release-0.2.84+88.apk",
   "obligatoria": true,
-  "notas": "Fotos: arreglado de nuevo el corte con GitHub (el token ahora vive protegido en la base, no en la app, para que no se vuelva a cortar solo); arreglado que un paso roto en la sincronizacion frenara todos los pasos siguientes (por eso Dispositivos vinculados a veces no se actualizaba aunque las ventas si); Ruta del dia ahora se arma sola con los negocios realmente visitados en el dia (antes dependia de tildar algo a mano en otra pantalla) y muestra cuantos negocios, cuantos km y cuanto tiempo de ruta; Todas las acciones ahora muestra a que cliente/producto/venta corresponde cada accion; panel de Sincronizacion renovado con chequeo de conexion real a Firebase y GitHub por separado."
+  "notas": "Ruta del dia: los negocios visitados ahora salen unidos con una linea (en el orden en que se vendio), y el resumen de negocios/km/tiempo quedo debajo del mapa en vez de arriba."
 }
